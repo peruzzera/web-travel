@@ -1,0 +1,22 @@
+{
+  "name": "caetano",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "dev": "servor --reload"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caetano2005/web-travel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caetano2005/web-travel/issues"
+  },
+  "homepage": "https://github.com/Caetano2005/web-travel#readme",
+  "description": "",
+  "dependencies": {
+    "servor": "^4.0.2"
+  }
+}

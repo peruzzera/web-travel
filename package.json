@@ -1,5 +1,5 @@
 {
-  "name": "caetano",
+  "name": "pedro",
   "version": "1.0.0",
   "main": "tailwind.config.js",
   "scripts": {
@@ -7,14 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Caetano2005/web-travel.git"
+    "url": "git+https://github.com/peruzzera/web-travel.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Caetano2005/web-travel/issues"
+    "url": "https://github.com/peruzzera/web-travel/issues"
   },
-  "homepage": "https://github.com/Caetano2005/web-travel#readme",
+  "homepage": "https://github.com/peruzzera/web-travel#readme",
   "description": "",
   "dependencies": {
     "servor": "^4.0.2"

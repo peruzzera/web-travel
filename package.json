@@ -15,8 +15,8 @@
     "url": "https://github.com/peruzzera/web-travel/issues"
   },
   "homepage": "https://github.com/peruzzera/web-travel#readme",
-  "description": "",
   "dependencies": {
     "servor": "^4.0.2"
-  }
+  },
+  "description": ""
 }
